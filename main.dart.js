@@ -37825,7 +37825,7 @@ A.qI.prototype={
 J(a){return new A.HM(new A.a0C(),null)}}
 A.a0C.prototype={
 $2(a,b){var s,r=null,q=b.b
-if(!(q>730)&&!(q>1200)){q=A.cC(50)
+if(!(q>650)&&!(q>1200)){q=A.cC(50)
 return A.mw(B.br,A.a([B.vl,A.pX(A.a7Z(new A.dq(B.fP,A.eF(r,A.jN(B.DC,B.b2,B.aY,B.am),B.q,r,r,new A.e0(B.mg,r,r,q,r,r,B.b1),r,500,r,r,r,r,800),r)),r,r)],t.p),B.c5)}q=A.cC(50)
 s=t.p
 return A.mw(B.br,A.a([B.vl,A.pX(A.a7Z(new A.dq(B.fP,A.eF(r,A.jN(A.a([B.wt,A.rH(B.Dv,B.aY,B.am)],s),B.b2,B.aY,B.am),B.q,r,r,new A.e0(B.mg,r,r,q,r,r,B.b1),r,500,r,r,r,r,800),r)),r,r)],s),B.c5)},
