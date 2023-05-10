@@ -37822,7 +37822,7 @@ s=t.p
 return A.mw(B.br,A.a([B.vl,A.vs(A.a7Y(new A.dp(B.fQ,A.e0(r,A.jM(A.a([B.wt,A.oA(B.Du,B.aM,B.ah)],s),B.bd,B.aM,B.ah),B.o,r,r,new A.e_(B.mg,r,r,q,r,r,B.b1),r,500,r,r,r,r,800),r)),r,r)],s),B.c5)},
 $S:308}
 A.Lz.prototype={
-J(a){return B.GJ}}
+J(a){return B.GK}}
 A.LY.prototype={
 J(a){return new A.vr(new A.abA(),"[TKRI]","assets/images/Logo_tKRI.png","War Thunder",null)}}
 A.abA.prototype={
@@ -37947,7 +37947,7 @@ r=$.aK
 if(r==null)r=$.aK=B.y
 r.O3(0,s,!1,q,t.EZ)
 s=t.p
-return new A.GL(A.e0(q,A.oA(A.a([B.yu,A.jM(A.a([B.GK,A.Yg(B.NQ,new A.V4(),A.Gp(q,q,q,q,q,q,q,q,q,B.IV,q,q,q,q,q,new A.bE(A.cM(20),B.q),q,q,q,q))],s),B.bd,B.aM,B.ah)],s),B.aM,B.ah),B.o,B.B,q,q,q,150,q,q,q,q,400),q)}}
+return new A.GL(A.e0(q,A.oA(A.a([B.yu,A.jM(A.a([B.GJ,A.Yg(B.NQ,new A.V4(),A.Gp(q,q,q,q,q,q,q,q,q,B.IV,q,q,q,q,q,new A.bE(A.cM(20),B.q),q,q,q,q))],s),B.bd,B.aM,B.ah)],s),B.aM,B.ah),B.o,B.B,q,q,q,150,q,q,q,q,400),q)}}
 A.V4.prototype={
 $0(){A.Ha($.bq(),"/home",t.z)},
 $S:0}
@@ -37961,11 +37961,11 @@ m=A.aan(m,A.Hv(n,new A.fc(4,A.cM(10),B.cQ),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,
 r=$.aK
 r=(r==null?$.aK=B.y:r).cz(0,n,s).ay
 r===$&&A.b()
-r=A.aan(r,A.Hv(n,new A.fc(4,A.cM(10),B.cQ),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!1,n,B.O0,B.cL,n,n,n,n,n,n,n,n,n,n,n,n,n,n),n,n,B.dJ,B.f_,B.Jm)
+r=A.aan(r,A.Hv(n,new A.fc(4,A.cM(10),B.cQ),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!1,n,B.O1,B.cL,n,n,n,n,n,n,n,n,n,n,n,n,n,n),n,n,B.dJ,B.f_,B.Jm)
 q=$.aK
 q=(q==null?$.aK=B.y:q).cz(0,n,s).CW
 q===$&&A.b()
-q=A.aan(q,A.Hv(n,new A.fc(4,A.cM(10),B.cQ),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,"Nicama#9958",n,n,n,n,!1,n,B.NV,B.cL,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.l3,n,B.dJ,B.f_,B.l0)
+q=A.aan(q,A.Hv(n,new A.fc(4,A.cM(10),B.cQ),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,"Nicama#9958",n,n,n,n,!1,n,B.NW,B.cL,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.l3,n,B.dJ,B.f_,B.l0)
 p=$.aK
 s=(p==null?$.aK=B.y:p).cz(0,n,s).ch
 s===$&&A.b()
@@ -38012,7 +38012,7 @@ p=p.cz(0,n,o).cx
 if(p.gm(p)){p=$.aK
 p=(p==null?$.aK=B.y:p).cz(0,n,o).cy
 p=p.gm(p)}else p=!1
-return A.e0(n,A.oA(A.a([new A.fT(1,B.bw,A.Yg(B.NY,p?new A.ZS(q):n,r),n),A.aoY(B.j,A.aoX(B.n5),new A.ZT(q),"Join Discord Lunar Exclaire")],t.p),B.aM,B.ah),B.o,n,n,n,n,40,n,n,n,n,s.a)},
+return A.e0(n,A.oA(A.a([new A.fT(1,B.bw,A.Yg(B.NZ,p?new A.ZS(q):n,r),n),A.aoY(B.j,A.aoX(B.n5),new A.ZT(q),"Join Discord Lunar Exclaire")],t.p),B.aM,B.ah),B.o,n,n,n,n,40,n,n,n,n,s.a)},
 $S:292}
 A.ZS.prototype={
 $0(){var s,r,q,p,o,n=null,m=this.a,l=$.aK
@@ -38038,7 +38038,7 @@ s===$&&A.b()
 l.A2(r,q,p,s.a.a)
 s=$.bq()
 p=A.cM(25)
-A.ay9(s,B.B,!1,A.anJ(A.a([A.aB3(B.O_,new A.ZQ(m),n),A.aoY(n,A.aoX(B.n5),new A.ZR(m),n)],t.p),B.Bz,n,n,B.NX,n,new A.bE(p,B.q),B.NU,n),u.r,"",t.z)},
+A.ay9(s,B.B,!1,A.anJ(A.a([A.aB3(B.O0,new A.ZQ(m),n),A.aoY(n,A.aoX(B.n5),new A.ZR(m),n)],t.p),B.Bz,n,n,B.NY,n,new A.bE(p,B.q),B.NV,n),u.r,"",t.z)},
 $S:0}
 A.ZQ.prototype={
 $0(){var s,r=$.aK
@@ -75063,8 +75063,8 @@ B.e2=new A.wq(0,"tight")
 B.wp=new A.m(!0,B.j,null,null,null,null,11,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NT=new A.da("Saya Siap Mengikuti Squadron Realistic Battle",null,B.wp,null,null,null,null,null,null)
 B.BK=new A.qs(1,B.e2,B.NT,null)
-B.NZ=new A.da("Saya Sudah Membaca dan Setuju Peraturan yg tertulis",null,B.wp,null,null,null,null,null,null)
-B.BL=new A.qs(1,B.e2,B.NZ,null)
+B.O_=new A.da("Saya Sudah Membaca dan Setuju Peraturan yg tertulis",null,B.wp,null,null,null,null,null,null)
+B.BL=new A.qs(1,B.e2,B.O_,null)
 B.BM=new A.wk(null,null,null,null,null,null,null,null,null)
 B.mN=new A.jY(!1,!1,!1,!1)
 B.mO=new A.jY(!1,!1,!1,!0)
@@ -75272,8 +75272,8 @@ B.Md=new A.m(!0,B.j,null,null,null,null,28,null,null,null,null,null,null,null,nu
 B.O2=new A.da("Rules",null,B.Md,null,null,null,null,null,null)
 B.Me=new A.m(!0,B.j,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.f0=new A.jg(2,"center")
-B.NW=new A.da("Mohon untuk dibaca menyeluruh !",null,B.Me,B.f0,null,null,null,null,null)
-B.DB=A.a(s([B.O2,B.NW]),t.p)
+B.NX=new A.da("Mohon untuk dibaca menyeluruh !",null,B.Me,B.f0,null,null,null,null,null)
+B.DB=A.a(s([B.O2,B.NX]),t.p)
 B.wt=new A.Lz(null)
 B.PU=new A.LY(null)
 B.x5=new A.E8(null)
@@ -76291,12 +76291,12 @@ B.ae=new A.cQ(6,"disabled")
 B.tx=new A.cQ(7,"error")
 B.GG=new A.lY(0,"padded")
 B.GH=new A.lY(1,"shrinkWrap")
+B.Mf=new A.m(!0,B.j,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.NU=new A.da("[Q.E.D]",null,B.Mf,null,null,null,null,null,null)
+B.GJ=new A.o1(B.NU,B.bD,0,B.B,null,null,null,null,!0,B.o,B.H,null,null)
 B.Mz=new A.m(!0,null,null,null,null,null,30,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NR=new A.da("Join Us",null,B.Mz,null,null,null,null,null,null)
-B.GJ=new A.o1(B.NR,B.bD,0,B.B,null,null,null,null,!0,B.o,B.H,null,null)
-B.Mf=new A.m(!0,B.j,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.O1=new A.da("[TKRI]",null,B.Mf,null,null,null,null,null,null)
-B.GK=new A.o1(B.O1,B.bD,0,B.B,null,null,null,null,!0,B.o,B.H,null,null)
+B.GK=new A.o1(B.NR,B.bD,0,B.B,null,null,null,null,!0,B.o,B.H,null,null)
 B.GL=new A.xx(0,"none")
 B.GM=new A.xx(2,"truncateAfterCompositionEnds")
 B.GN=new A.h6("popRoute",null)
@@ -76929,12 +76929,12 @@ B.NP=new A.du(B.M2,B.Nt,B.Na,B.Kt,B.N2,B.LS,B.Nz,B.L2,B.Lw,B.MY,B.Ko,B.Nc,B.N0,B
 B.wq=new A.zU(1,"longestLine")
 B.NQ=new A.da("Back",null,null,null,null,null,null,null,null)
 B.NS=new A.da("Negara utama",null,null,null,null,null,null,null,null)
-B.NU=new A.da("Formulir Terkirim",null,null,null,null,null,null,null,null)
-B.NV=new A.da("Discord",null,null,null,null,null,null,null,null)
-B.NX=new A.da(u.r,null,null,null,null,null,null,null,null)
-B.NY=new A.da("Kirim",null,null,null,null,null,null,null,null)
-B.O_=new A.da("OK",null,null,null,null,null,null,null,null)
-B.O0=new A.da("WT nickname",null,null,null,null,null,null,null,null)
+B.NV=new A.da("Formulir Terkirim",null,null,null,null,null,null,null,null)
+B.NW=new A.da("Discord",null,null,null,null,null,null,null,null)
+B.NY=new A.da(u.r,null,null,null,null,null,null,null,null)
+B.NZ=new A.da("Kirim",null,null,null,null,null,null,null,null)
+B.O0=new A.da("OK",null,null,null,null,null,null,null,null)
+B.O1=new A.da("WT nickname",null,null,null,null,null,null,null,null)
 B.O3=new A.da("Nama Panggilan",null,null,null,null,null,null,null,null)
 B.wr=new A.zV(0,"system")
 B.O5=new A.zV(2,"dark")
