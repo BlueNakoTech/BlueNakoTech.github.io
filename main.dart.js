@@ -37824,7 +37824,7 @@ $S:308}
 A.Lz.prototype={
 J(a){return B.GK}}
 A.LY.prototype={
-J(a){return new A.vr(new A.abA(),"[TKRI]","assets/images/Logo_tKRI.png","War Thunder",null)}}
+J(a){return new A.vr(new A.abA(),"^xQEDx^","assets/images/Logo_tKRI.png","War Thunder",null)}}
 A.abA.prototype={
 $0(){A.Ha($.bq(),"/warthunderjoin",t.z)},
 $S:0}
@@ -76292,7 +76292,7 @@ B.tx=new A.cQ(7,"error")
 B.GG=new A.lY(0,"padded")
 B.GH=new A.lY(1,"shrinkWrap")
 B.Mf=new A.m(!0,B.j,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NU=new A.da("[Q.E.D]",null,B.Mf,null,null,null,null,null,null)
+B.NU=new A.da("^xQEDx^",null,B.Mf,null,null,null,null,null,null)
 B.GJ=new A.o1(B.NU,B.bD,0,B.B,null,null,null,null,!0,B.o,B.H,null,null)
 B.Mz=new A.m(!0,null,null,null,null,null,30,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NR=new A.da("Join Us",null,B.Mz,null,null,null,null,null,null)
