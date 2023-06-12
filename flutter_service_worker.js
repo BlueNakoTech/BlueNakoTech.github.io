@@ -4,10 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "android-chrome-192x192.png": "1ce5d96ee26b2fbb5a116c7dd2204a77",
-"assets/AssetManifest.json": "33e80d63273ff9e6703766af80b7cc11",
+"assets/AssetManifest.json": "90b00c308aae6333164d4a98e065daa5",
 "assets/assets/data/data.json": "40c59fb6a2c6cc85537511087d0751b0",
 "assets/assets/images/LOGO_ODIN_PNG.png": "eb378ccfe6feb3d611d9da3748ddc924",
-"assets/assets/images/Logo_tKRI.png": "52ac39c8a89f4b5dc8ebc1bf7e73e763",
+"assets/assets/images/Logo_QED.jpg": "afceb38cb1670650ef9dc564d06987d2",
+"assets/assets/images/Logo_QED.png": "bd235b05eab167ace25a9edeb54a90ab",
 "assets/assets/images/ShirokoLogo.png": "b1bcb500781c8fc60b2a2c6d3c589d10",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -27,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9f70126817215241887d065d013c8f5f",
-"/": "9f70126817215241887d065d013c8f5f",
-"main.dart.js": "ab6b883670230692f8e38504b669c050",
+"index.html": "9ea29e179d9025d1d797c4b9ea81b4d5",
+"/": "9ea29e179d9025d1d797c4b9ea81b4d5",
+"main.dart.js": "211631683e26bf3d4eed421fa6f2fee3",
 "manifest.json": "051e8ab39ee842bf0e9d890ee2add9f4",
 "version.json": "863294f3282a0e4c0b2a07cdf53658d8"
 };
