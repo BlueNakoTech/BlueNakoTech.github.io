@@ -43732,7 +43732,7 @@ p=$.aN
 s=(p==null?$.aN=B.C:p).d_(0,n,s).ch
 s===$&&A.a()
 p=t.p
-return new A.cC(B.BT,A.iy(A.i0(A.b([B.zZ,B.xh,m,r,q,A.adj(s,A.JE(n,new A.fm(4,A.dp(10),B.dg),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,!1,n,B.Qe,B.d8,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.jH,new A.a2U(o),B.er,B.h8,B.jE),B.xh,A.eJ(n,A.tQ(A.b([new A.oX(new A.a2V(o),n),B.C5],p),B.fv,B.aB),B.o,n,B.yM,n,n,n,n,n,n,n,n),A.eJ(n,A.tQ(A.b([new A.oX(new A.a2W(o),n),B.C6,B.KT],p),B.fv,B.aB),B.o,n,n,n,n,n,n,n,n,n,n),new A.oX(new A.a2X(o),n)],p),B.hT,B.be,B.aB),n,200),n)}}
+return new A.cC(B.BT,A.iy(A.i0(A.b([B.zZ,B.xh,m,r,q,A.adj(s,A.JE(n,new A.fm(4,A.dp(10),B.dg),n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,"Italy 11.7, Germany 11.0. dst",n,n,n,n,!1,n,B.Qk,B.d8,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.jH,new A.a2U(o),B.er,B.h8,B.jE),B.xh,A.eJ(n,A.tQ(A.b([new A.oX(new A.a2V(o),n),B.C5],p),B.fv,B.aB),B.o,n,B.yM,n,n,n,n,n,n,n,n),A.eJ(n,A.tQ(A.b([new A.oX(new A.a2W(o),n),B.C6,B.KT],p),B.fv,B.aB),B.o,n,n,n,n,n,n,n,n,n,n),new A.oX(new A.a2X(o),n)],p),B.hT,B.be,B.aB),n,200),n)}}
 A.a2R.prototype={
 $1(a){var s=$.aN
 if(s==null)s=$.aN=B.C
@@ -43794,7 +43794,7 @@ p=(p==null?$.aN=B.C:p).d_(0,n,o).cy
 if(p.gl(p)){p=$.aN
 p=(p==null?$.aN=B.C:p).d_(0,n,o).dy
 p=p.gl(p)}else p=!1}else p=!1
-return A.eJ(n,A.a14(B.Qj,p?new A.a2O(q):n,r),B.o,n,n,n,n,40,n,n,n,n,s.a)},
+return A.eJ(n,A.a14(B.Qi,p?new A.a2O(q):n,r),B.o,n,n,n,n,40,n,n,n,n,s.a)},
 $S:403}
 A.a2O.prototype={
 $0(){var s,r,q,p,o,n=null,m=this.a,l=$.aN
@@ -43820,7 +43820,7 @@ s===$&&A.a()
 l.E2(r,q,p.toUpperCase(),s.a.a.toLowerCase())
 s=$.bt()
 p=A.dp(25)
-A.aF0(s,B.x,!1,A.asE(A.b([A.aql(B.Ql,new A.a2N(m),n)],t.p),B.BV,n,n,B.Qi,n,new A.bz(p,B.p),B.Qg,n),u.r,"",t.z)},
+A.aF0(s,B.x,!1,A.asE(A.b([A.aql(B.Ql,new A.a2N(m),n)],t.p),B.BV,n,n,B.Qh,n,new A.bz(p,B.p),B.Qf,n),u.r,"",t.z)},
 $S:0}
 A.a2N.prototype={
 $0(){var s,r=$.aN
@@ -86015,10 +86015,10 @@ B.lH=new A.oe(!1,!1,!1,!1)
 B.lI=new A.oe(!1,!1,!1,!0)
 B.f1=new A.IT(0,"tight")
 B.xG=new A.n(!0,B.j,null,null,null,null,11,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qf=new A.dj("Saya Siap Mengikuti Squadron Realistic Battle",null,B.xG,null,null,null,null,null,null)
-B.C5=new A.rn(1,B.f1,B.Qf,null)
-B.Qk=new A.dj("Saya Sudah Membaca dan Setuju Peraturan yg tertulis",null,B.xG,null,null,null,null,null,null)
-B.C6=new A.rn(1,B.f1,B.Qk,null)
+B.Qe=new A.dj("Saya Siap Mengikuti Squadron Realistic Battle",null,B.xG,null,null,null,null,null,null)
+B.C5=new A.rn(1,B.f1,B.Qe,null)
+B.Qj=new A.dj("Saya Sudah Membaca dan Setuju Peraturan yg tertulis",null,B.xG,null,null,null,null,null,null)
+B.C6=new A.rn(1,B.f1,B.Qj,null)
 B.C7=new A.xy(null,null,null,null,null,null,null,null,null,null,null)
 B.ib=new A.kq(!1,!1,!1,!1)
 B.ic=new A.kq(!1,!1,!1,!0)
@@ -86348,8 +86348,8 @@ B.fl=A.b(s([B.bX,B.HB,B.e3,B.I_,B.fA,B.I0,B.rB,B.HD]),t.yv)
 B.OF=new A.n(!0,B.j,null,null,null,null,28,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qo=new A.dj("Rules",null,B.OF,null,null,null,null,null,null)
 B.OG=new A.n(!0,B.j,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qh=new A.dj("Mohon untuk dibaca menyeluruh !",null,B.OG,B.eo,null,null,null,null,null)
-B.ER=A.b(s([B.Qo,B.Qh]),t.p)
+B.Qg=new A.dj("Mohon untuk dibaca menyeluruh !",null,B.OG,B.eo,null,null,null,null,null)
+B.ER=A.b(s([B.Qo,B.Qg]),t.p)
 B.fm=A.b(s([0,0,65490,45055,65535,34815,65534,18431]),t.t)
 B.dY=new A.h0(0,"controlModifier")
 B.dZ=new A.h0(1,"shiftModifier")
@@ -88017,10 +88017,10 @@ B.OV=new A.n(!0,B.j,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Qa=new A.d_(B.Ov,B.PP,B.Py,B.MS,B.Pt,B.Ol,B.PV,B.Nr,B.NY,B.Po,B.ML,B.Pz,B.Pr,B.Pl,B.OV)
 B.Qb=new A.dj("Discord Username",null,null,null,null,null,null,null,null)
 B.Qc=new A.dj("Back",null,null,null,null,null,null,null,null)
-B.Qe=new A.dj("Negara utama",null,null,null,null,null,null,null,null)
-B.Qg=new A.dj("Formulir Terkirim",null,null,null,null,null,null,null,null)
-B.Qi=new A.dj(u.r,null,null,null,null,null,null,null,null)
-B.Qj=new A.dj("Kirim",null,null,null,null,null,null,null,null)
+B.Qf=new A.dj("Formulir Terkirim",null,null,null,null,null,null,null,null)
+B.Qh=new A.dj(u.r,null,null,null,null,null,null,null,null)
+B.Qi=new A.dj("Kirim",null,null,null,null,null,null,null,null)
+B.Qk=new A.dj("Tech Tree / BR",null,null,null,null,null,null,null,null)
 B.Ql=new A.dj("OK",null,null,null,null,null,null,null,null)
 B.Qm=new A.dj("WT nickname",null,null,null,null,null,null,null,null)
 B.Qp=new A.dj("Nama Panggilan",null,null,null,null,null,null,null,null)
