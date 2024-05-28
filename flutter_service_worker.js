@@ -4,10 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"android-chrome-192x192.png": "1ce5d96ee26b2fbb5a116c7dd2204a77",
-"assets/AssetManifest.bin": "91db1a0899a6abd77df9ae19676fce3f",
-"assets/AssetManifest.json": "5683b4ee4c698c6feaf86225ddaf3615",
+"assets/AssetManifest.bin": "7a2d58fb7d8b302d622c6b068111d962",
+"assets/AssetManifest.json": "46db82ffd45e5e10ac92b29c16001b1c",
 "assets/assets/data/data.json": "40c59fb6a2c6cc85537511087d0751b0",
 "assets/assets/images/background.webp": "0aee43ef4d77076f9c9245b61ac8699e",
+"assets/assets/images/Honkai_Star_Rail.webp": "2085b98df1393374f9d797de33ff66e3",
 "assets/assets/images/LOGO_ODIN_PNG.png": "eb378ccfe6feb3d611d9da3748ddc924",
 "assets/assets/images/Logo_QED.png": "bd235b05eab167ace25a9edeb54a90ab",
 "assets/assets/images/Logo_tKRI.png": "52ac39c8a89f4b5dc8ebc1bf7e73e763",
@@ -33,9 +34,9 @@ const RESOURCES = {"android-chrome-192x192.png": "1ce5d96ee26b2fbb5a116c7dd2204a
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5d9c43f38fb7372d318db79dd521edad",
-"/": "5d9c43f38fb7372d318db79dd521edad",
-"main.dart.js": "2a46678efa2e8ae11e5956f808818172",
+"index.html": "850fa55093fcc84e2796889e20a2777c",
+"/": "850fa55093fcc84e2796889e20a2777c",
+"main.dart.js": "242365be7c39da6190b8fc9642398caf",
 "manifest.json": "051e8ab39ee842bf0e9d890ee2add9f4",
 "version.json": "863294f3282a0e4c0b2a07cdf53658d8"};
 // The application shell files that are downloaded before a service worker can
